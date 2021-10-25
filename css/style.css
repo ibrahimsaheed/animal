@@ -81,5 +81,12 @@ body {
     text-align: center;
     color: orangered;
 }
-
+.io {
+    color: orangered;
+    text-align: center;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+}
 
