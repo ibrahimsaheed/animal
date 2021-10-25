@@ -9,6 +9,7 @@
 }
 body {
     background-color: white;
+
 }
 .pot {
     border: orangered;
@@ -22,4 +23,63 @@ body {
     background-color: snow;
     color: orangered;
 }
+.con{
+    width: 200px;
+    height:200px;
+}
+
+/* Nav Section Starts */
+.nav-section {
+    background-color: orangered;
+    color: white;
+}
+
+.nav-section .nav-heading-name {
+    text-align: center;
+}
+
+.nav-section .nav-picture img {
+    width: 150px;
+}
+
+.nav-section .flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-section ul {
+    list-style: none;
+    margin-right: 400px;
+}
+
+.nav-section li {
+    padding-left: 25px;
+}
+
+.nav-section a {
+    color: orangered;
+    background-color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px;
+}
+/* Nav Section Ends */
+.images {
+    margin-left: 400px;
+    margin-top:40px ;
+    margin-bottom: 20px;
+    border-style: dotted;
+    border-color: orangered;
+    width: 600px;
+    padding: 50px;
+    border-width: 5px;
+    
+}
+.jumbotron {
+    text-align: center;
+    color: orangered;
+}
+
 
